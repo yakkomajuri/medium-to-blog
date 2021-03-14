@@ -1,0 +1,17 @@
+{
+  "name": "medium-to-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "yarn && gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog && node index.js && cd blog && gatsby develop"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gatsby": "^3.0.4",
+    "gatsby-cli": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "turndown": "^7.0.0"
+  }
+}
