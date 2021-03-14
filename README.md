@@ -1,5 +1,8 @@
 # Convert all your Medium posts into a blog in 5 minutes
 
+<img width="1440" alt="Screenshot 2021-03-14 at 20 52 06" src="https://user-images.githubusercontent.com/38760734/111083907-c0275300-8507-11eb-826b-98d6f02eea5c.png">
+
+
 ## How to use
 
 Run the above substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the values applicable to you.
