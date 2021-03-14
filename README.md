@@ -5,7 +5,7 @@
 
 ## How to use
 
-Run the above substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the values applicable to you.
+Run the commands below substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the values applicable to you.
 
 ```
 git clone https://github.com/yakkomajuri/medium-to-blog
