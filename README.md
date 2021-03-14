@@ -13,6 +13,10 @@ yarn start
 
 And that's it! You'll get a shiny new Gatsby blog with all your Medium posts in it.
 
+## Demo
+
+https://user-images.githubusercontent.com/38760734/111083633-5fe3e180-8506-11eb-80f1-fab2d7aeb062.mp4
+
 ## Story
 
 This is a tool that went from idea to its current state _entirely in one afternoon_. 
