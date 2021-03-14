@@ -13,15 +13,15 @@ yarn start
 
 And that's it! You'll get a shiny new Gatsby blog with all your Medium posts in it.
 
-## Demo
-
-https://user-images.githubusercontent.com/38760734/111083633-5fe3e180-8506-11eb-80f1-fab2d7aeb062.mp4
+## [Demo](https://www.youtube.com/watch?v=3hk558XEbUs)
 
 ## Story
 
-This is a tool that went from idea to its current state _entirely in one afternoon_. 
+This is a tool that went from idea to its current state _entirely in one Sunday afternoon_. 
 
 I don't really have time to work on it so I hope it works for you if you encounter this repo :D
+
+It has no tests, and I didn't even re-read the code. By the time I was done it was time for dinner.
 
 Things that need to improve:
 
