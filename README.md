@@ -30,6 +30,7 @@ Things that need to improve:
 
 - [ ] Images
 - [ ] Code blocks (should be a matter of making a minor change to the `turndown` dependency)
+- [ ] Non-English characters in title
 - [ ] Probably a lot of other stuff?
 
 
