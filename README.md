@@ -7,7 +7,7 @@
 
 Run the commands below substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the values applicable to you.
 
-```
+```shell
 git clone https://github.com/yakkomajuri/medium-to-blog
 cd medium-to-blog
 export MEDIUM_URL=https://yakkomajuri.medium.com MEDIUM_USERNAME=yakkomajuri 
