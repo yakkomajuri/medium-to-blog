@@ -11,7 +11,7 @@ Run the commands below substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the v
 git clone https://github.com/yakkomajuri/medium-to-blog
 cd medium-to-blog
 export MEDIUM_URL=https://yakkomajuri.medium.com MEDIUM_USERNAME=yakkomajuri 
-yarn start
+yarn start # or npm start
 ```
 
 And that's it! You'll get a shiny new Gatsby blog with all your Medium posts in it.
