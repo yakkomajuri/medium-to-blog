@@ -198,7 +198,7 @@ This was almost it - I just ran into a few problems:
 
 Here, in a more robust implementation, I would have thrown in a [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) equivalent to clean the HTML before converting it to Markdown, but I was in no mood to read the Docs of whatever the JS equivalent of Beautiful Soup is, so I went the Regex route - yay :D
 
-I spent a bit of time pulling some of my beards hairs out and ended up with 4 regexes to clean up the useless stuff both at the HTML stage as well as at the Markdown stage.
+I spent a bit of time pulling some of my beard hairs out and ended up with some regexes to clean up the useless stuff both at the HTML stage as well as at the Markdown stage.
 
 For the images problem, I spent a bit of time testing the URLs inside the `img` tags and didn't get anywhere. Looking to get this done quickly, I just had a regex get rid of 'em and focused on how I could make the little image bigger. 
 
