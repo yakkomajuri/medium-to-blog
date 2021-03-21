@@ -2,7 +2,7 @@
     Convert all your Medium posts into a Gatsby blog in 5 min
 </h1>    
 
-<img width="1440" alt="Screenshot 2021-03-14 at 20 52 06" src="https://user-images.githubusercontent.com/38760734/111083907-c0275300-8507-11eb-826b-98d6f02eea5c.png">
+<img width="1440" alt="Example Post" src="https://user-images.githubusercontent.com/38760734/111083907-c0275300-8507-11eb-826b-98d6f02eea5c.png">
 
 ## [Demo](https://www.youtube.com/watch?v=3hk558XEbUs)
 
@@ -192,7 +192,7 @@ This was almost it - I just ran into a few problems:
 
 - I got some extra stuff in the Markdown that I didn't need, such as the title and subtitle, and the Markdown equivalent of my profile card, with the a link to follow me, etc.
 
-![](./post-header.png)
+<img width="500" src="./post-header.png">
 
 - Images didn't seem to be working. Well, I got both `img` tags and Markdown image syntax (`![]()`), with the Markdown syntax producing some tiny images, and the `img` tags being seemingly useless.
 
