@@ -67,7 +67,7 @@ With a clearer idea now in mind, there were three steps to it:
 
 I started from the bottom (pun unintended) because I felt like that'd be the quickest thing to do.
 
-So I popped open the [Gatsby Starter Templates]() page and chose the most popular theme. 
+So I popped open the [Gatsby Starter Library](https://www.gatsbyjs.com/starters) page and chose the most popular theme. 
 
 I then looked at how the template structures its blog posts (where they're located, what the frontmatter looks like, etc) and got a good picture of what to do with my generated Markdown files:
 
