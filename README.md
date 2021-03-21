@@ -1,23 +1,29 @@
 # Convert all your Medium posts into a Gatsby blog in 5 minutes
 
+<img width="1440" alt="Screenshot 2021-03-14 at 20 52 06" src="https://user-images.githubusercontent.com/38760734/111083907-c0275300-8507-11eb-826b-98d6f02eea5c.png">
+
+## [Demo](https://www.youtube.com/watch?v=3hk558XEbUs)
+
 ## How to use
 
-Run the above substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the values applicable to you.
+Run the commands below substituting `MEDIUM_URL` and `MEDIUM_USERNAME` for the values applicable to you.
 
-```
+```shell
 git clone https://github.com/yakkomajuri/medium-to-blog
 cd medium-to-blog
 export MEDIUM_URL=https://yakkomajuri.medium.com MEDIUM_USERNAME=yakkomajuri 
-yarn start
+yarn start # or npm start
 ```
 
 And that's it! You'll get a shiny new Gatsby blog with all your Medium posts in it.
 
 ## Disclaimer
 
-This is a tool that went from idea to its current state _entirely in one afternoon_. 
+This is a tool that went from idea to its current state _entirely in one Sunday afternoon_. 
 
 I don't really have time to work on it so I hope it works for you if you encounter this repo :D
+
+It has no tests, and I didn't even re-read the code. By the time I was done it was time for dinner.
 
 ## Story
 
@@ -223,7 +229,6 @@ I later added npm support as well with `yarn || npm install`. It's not often tha
 And so this is it! That's how I built a blog generator from Medium posts in an afternoon - hopefully it's useful to someone.
 
 It's definitely rough, and there's things that need improvement, like images, code blocks, embeds (e.g. gists), etc. Feel free to update this to suit your needs, as I don't believe I'll be spending much time on it going forward.
-
 
 
 

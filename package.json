@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "yarn && gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog && node index.js && cd blog && gatsby develop"
+    "start": "yarn || npm install && gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog && node index.js && cd blog && gatsby develop"
   },
   "dependencies": {
     "fs": "^0.0.1-security",

@@ -70,7 +70,7 @@ const convertHtmlToParsedMarkdown = (postHtml, post) => {
     postMarkdown = postMarkdown.replace(/(\(https:\/\/miro.medium.com\/freeze\/max\/)[0-9]../g, '(https://miro.medium.com/freeze/max/600/') 
     postMarkdown = postMarkdown.split('min read')[1] // get rid of header stuff
     const postDate = new Date(post.firstPublishedAt).toISOString()
-    postMarkdown = `---\ntitle: ${post.title.replace(/:/g, '-')}\ndate: ${postDate}\ndescription: ${post.previewContent.subtitle.replace(/:/g, '-')}\n---\n\n${postMarkdown}`
+    postMarkdown = `---\ntitle: ${post.title.replace(/:/g, ' -')}\ndate: ${postDate}\ndescription: ${post.previewContent.subtitle.replace(/:/g, ' -')}\n---\n\n${postMarkdown}`
     return postMarkdown
 }
 
