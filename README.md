@@ -176,7 +176,7 @@ query ProfilePubHandlerQuery($id: ID, $username: ID, $homepagePostsLimit: Pagina
 
 With all the steps seemingly in place, I started writing a script to pull it all together.
 
-I started this step off a bit ambitious, thinking I'd write everything in TypeScript, make it a globally-installable package that could be run with `npx` and all that jazz.
+I started this step off a bit ambitious, thinking I'd write everything in TypeScript, make it a globally-installable package that could then be run with `npx` and all that jazz.
 
 But, I held myself back and decided to go as lean as possible.
 
